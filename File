@@ -1,0 +1,10 @@
+Mario-Bross/
+├── app/
+│   └── page.tsx
+├── public/
+│   ├── mario.png
+│   └── mario-theme.mp3
+├── package.json
+├── tailwind.config.js
+├── tsconfig.json
+└── ...
